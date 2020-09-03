@@ -1,0 +1,45 @@
+{
+	"short_name": "Elins slide",
+	"name": "Elins Slide React-spring",
+	"icons": [
+		{
+		"src": "favicon.ico",
+		"sizes": "64x64 32x32 24x24 16x16",
+		"type": "image/x-icon"
+		},
+		{
+		"src": "hi.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x667"
+		},
+		{
+		"src": "view.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x750"
+		},
+		{
+		"src": "kitchen.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x749"
+		},
+		{
+		"src": "kitchen2.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x1333"
+		},
+		{
+		"src": "livingroom.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x1333"
+		},
+		{
+		"src": "house.jpg",
+		"type": "image/jpg",
+		"sizes": "1000x750"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#222222"
+}

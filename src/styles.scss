@@ -1,0 +1,36 @@
+html, body {
+	margin: 0;
+	background:#222222;
+}
+
+::-webkit-scrollbar {
+	width: 0px;
+}
+
+.container {
+	display: flex;
+	overflow-x: scroll;
+	width: 100%;
+	padding: 20px 0;
+	margin-top: 60px;
+}
+
+.card {
+	flex-shrink: 0;
+	width: 85%;
+	height: 400px;
+	border-radius: 10px;
+	margin-left: 10px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	@media screen and (min-width: 720px) {
+		width: 60%;
+	}
+	@media screen and (min-width: 992px) {
+		width: 40%;
+	}
+}
+
+
+
